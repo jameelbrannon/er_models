@@ -1,7 +1,7 @@
-repo contains tickers for basic material sector.  
+repo contains folders which contain tickers for differecnt sectors. 
 
 if a ticker isn't seen, it's because I haven't uploaded a model for it yet.  
 
-each company can be identified by their ticker symbol, which lives inside of an industry folder. 
+each company can be identified by their ticker symbol, which lives inside of a folder
 
-the end.
+my current focus is basic materials only
