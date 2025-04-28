@@ -1,4 +1,4 @@
-repo contains folders which contain tickers for differecnt sectors. 
+repo contains folders which contain tickers for different sectors. 
 
 if a ticker isn't seen, it's because I haven't uploaded a model for it yet.  
 
